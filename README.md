@@ -1,3 +1,5 @@
+Loom Video [Link](https://www.loom.com/share/bac5525f0e9d446b9a6c52eea43960a0)
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
